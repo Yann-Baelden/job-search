@@ -71,7 +71,7 @@ export default {
         "h-16": !this.isLoggedIn,
         "h-32": this.isLoggedIn,
       };
-    }
+    },
   },
   methods: {
     loginUser() {
